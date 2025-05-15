@@ -1,0 +1,71 @@
+body {
+  background: linear-gradient(135deg, #e0f7fa, #f1f8e9);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#resume-preview {
+  width: 595pt;      /* 210mm in points */
+  min-height: 842pt; /* 297mm in points */
+  margin: 0 auto;
+  box-sizing: border-box;
+  padding: 30px;
+  border: 2px dashed #007BFF;
+  background-color: #fff;
+  border-radius: 10px;
+}
+
+/* Template 1: Classic Blue */
+.template1 {
+  font-family: 'Segoe UI', sans-serif;
+  color: #0d47a1;
+}
+
+.template1 h2 {
+  border-bottom: 2px solid #0d47a1;
+  padding-bottom: 5px;
+}
+
+/* Template 2: Modern Soft */
+.template2 {
+  font-family: 'Georgia', serif;
+  color: #2e7d32;
+  background-color: #f9fbe7;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.template2 h2 {
+  color: #558b2f;
+  border-bottom: 1px solid #c5e1a5;
+  padding-bottom: 5px;
+}
+
+/* Template 3: Clean Minimal */
+.template3 {
+  font-family: Arial, sans-serif;
+  color: #333;
+  border-left: 5px solid #2196f3;
+  padding-left: 15px;
+  background: #f5f5f5;
+}
+
+.template3 h2 {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+/* Template 4: Dark Mode */
+.template4 {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #121212;
+  color: #bb86fc;
+  padding: 25px;
+  border-radius: 12px;
+}
+
+.template4 h2 {
+  border-bottom: 2px solid #bb86fc;
+  padding-bottom: 7px;
+}
+
+

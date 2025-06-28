@@ -58,9 +58,10 @@ The **Resume Builder** is a **web-based application** that allows users to **cre
 
 ---
 
-**How you can present this in your resume:**
-
-> **Resume Builder (HTML, CSS, JavaScript):** Built a web-based resume generator allowing users to input data, dynamically preview formatted resumes, and export them as PDFs using jsPDF. Implemented responsive design and live DOM updates for a seamless user experience.
+<img width="450" alt="Screenshot 2025-06-27 at 11 30 44 PM" src="https://github.com/user-attachments/assets/c4186752-7bb6-48b4-9373-6ef9a226e1a2" />
+<img width="1131" alt="Screenshot 2025-06-27 at 11 30 01 PM" src="https://github.com/user-attachments/assets/24a444e1-2785-4801-8b3d-3d2a629da2af" />
+<img width="1131" alt="Screenshot 2025-06-27 at 11 24 58 PM" src="https://github.com/user-attachments/assets/26071dea-d251-4f92-a421-1d92edd60f52" />
+<img width="1480" alt="Screenshot 2025-06-27 at 11 24 28 PM" src="https://github.com/user-attachments/assets/28da5669-c39a-4ba2-af6d-4492fc2d1bad" />
 
 ---
 
